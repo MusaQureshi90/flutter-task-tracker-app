@@ -27,7 +27,7 @@ A modern, responsive, offline-first task management mobile application engineere
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/MusaQureshi90/flutter-task-tracker-app.git](https://github.com/MusaQureshi90/flutter-task-tracker-app.git)
+git clone https://github.com/MusaQureshi90/flutter-task-tracker-app.git
 cd flutter-task-tracker-app
 ```
 
